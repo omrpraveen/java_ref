@@ -1,0 +1,42 @@
+package interfaces.functional.predicateex;
+
+import java.io.Serializable;
+
+public class TestDto implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	private String name;
+
+	private int age;
+
+	public TestDto(String name, int age) {
+		this.name=name;
+		this.age=age;
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	@Override
+	public String toString() {
+		return "TestDto [name=" + name + ", age=" + age + "]";
+	}
+
+}

@@ -1,0 +1,11 @@
+total 32
+drwxrwxr-x 5 praveen praveen 4096 Dec 23 12:19 .
+drwxrwxr-x 6 praveen praveen 4096 Nov 23 20:15 ..
+drwxrwxr-x 7 praveen praveen 4096 Dec 23 12:09 bin
+-rw-rw-r-- 1 praveen praveen  391 Dec 23 12:09 .classpath
+-rw-rw-r-- 1 praveen praveen   20 Nov 23 21:55 java8_readme.md
+-rw-rw-r-- 1 praveen praveen    0 Dec 22 09:46 mycal2022.txt
+-rw-rw-r-- 1 praveen praveen    0 Dec 23 12:42 out.tmp
+-rw-rw-r-- 1 praveen praveen  364 Nov 23 20:15 .project
+drwxrwxr-x 2 praveen praveen 4096 Nov 23 20:15 .settings
+drwxrwxr-x 7 praveen praveen 4096 Dec 21 21:38 src
